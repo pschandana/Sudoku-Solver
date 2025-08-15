@@ -51,5 +51,9 @@ This program allows you to:
 ```bash
 git clone https://github.com/YOUR_USERNAME/Sudoko_Solver.git
 cd Sudoko_Solver
+---
+
+# Compile
+javac ProjectSudoku.java
 
 
