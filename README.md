@@ -11,8 +11,8 @@ This program allows you to:
 
 ## 📸 Preview
 
-![Sudoku Solver GUI](images/sudoku_solver_screenshot.png)  
-*(Example of the application solving a Sudoku puzzle)*
+![Sudoku Solver GUI](sudoko.jpg)  
+
 
 ---
 
@@ -47,13 +47,24 @@ This program allows you to:
 
 ## ▶️ How to Run
 
-### **1. Clone this repository**
-```bash
-git clone https://github.com/YOUR_USERNAME/Sudoko_Solver.git
-cd Sudoko_Solver
----
 
-# Compile
-javac ProjectSudoku.java
+### **1. Clone this repository**
+
+     git clone https://github.com/pschandana/Sudoko_Solver.git
+     cd Sudoko_Solver
+
+### **2.Compile**
+
+     javac ProjectSudoku.java
+     
+### **3. Run**
+
+     java ProjectSudoku
+
+### **Example Output**
+
+     Number of Backtrackings: 142
+
+
 
 
