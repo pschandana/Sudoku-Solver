@@ -9,12 +9,6 @@ This program allows you to:
 
 ---
 
-## 📸 Preview
-
-![Sudoku Solver GUI](sudoko.jpg)  
-
-
----
 
 ## 🚀 Features
 - **GUI Interface** built with Java Swing.
