@@ -30,6 +30,26 @@ This program allows you to:
 - **Swing** (for GUI)
 - **AWT** (for layout & event handling)
 
+
+
+
 ---
 
-## 📂 Project Structure
+## 📖 How It Works
+1. **Initial Puzzle** is pre-filled in a 2D array.
+2. **GUI** is created using a 9×9 grid of `JTextField` components.
+3. **Solve Button** triggers:
+   - Reading input values from the grid.
+   - Running the `solveSudoku()` method (recursive backtracking).
+4. **Solution** is displayed in the GUI.
+
+---
+
+## ▶️ How to Run
+
+### **1. Clone this repository**
+```bash
+git clone https://github.com/YOUR_USERNAME/Sudoko_Solver.git
+cd Sudoko_Solver
+
+
